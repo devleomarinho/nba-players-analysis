@@ -53,7 +53,7 @@ O objetivo deste projeto é explorar as estatísticas dos jogadores da NBA ao lo
    jupyter notebook nba_analysis_notebook.ipynb
 
 ```
-##📈 Exemplos de Visualizações
+## 📈 Exemplos de Visualizações
 
 - **Boxplot de Pontos ao Longo das Temporadas**
 
