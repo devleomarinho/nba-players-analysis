@@ -46,16 +46,11 @@ O objetivo deste projeto é explorar as estatísticas dos jogadores da NBA ao lo
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/nba-stats-analysis.git
+   git clone https://github.com/devleomarinho/nba-players-analysis.git
 
-2. Instale as dependências:
-   ```bash
-
-    pip install -r requirements.txt
-
-3. Execute o notebook com as análises:
+2. Execute o notebook com as análises:
 ```bash
-   jupyter notebook nba_analysis.ipynb
+   jupyter notebook nba_analysis_notebook.ipynb
 
 ```
 ##📈 Exemplos de Visualizações
